@@ -1,6 +1,6 @@
 ---
-title: 建站
+title: theme-reco
 date: 2022-05-14
 ---
 
-搭建网站
+theme-reco

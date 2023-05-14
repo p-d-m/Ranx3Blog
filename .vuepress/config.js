@@ -25,10 +25,11 @@ module.exports = {
       }
     ],
     sidebar: {
-      '/docs/建站/': [
+      '/docs/theme-reco/': [
         '',
-        'vuepress',
-        'wordpress'
+        'api',
+        'plugin',
+        'theme'
       ]
     },
     type: 'blog',
